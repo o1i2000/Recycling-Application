@@ -1,0 +1,7 @@
+{
+  "name": "recycling",
+  "displayName": "recycling",
+  "plugins": [
+    "expo-secure-store"
+  ]
+}
